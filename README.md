@@ -12,6 +12,12 @@ Use terminal to download the source code. Open the `index.html` inside the folde
 git clone https://github.com/peterhychan/js-todo-app
 ```
 
+### Notes
+
+Q: Cannot Deploy on GitHub Page at first. 
+A: `https://stackoverflow.com/questions/11577147/how-to-fix-http-404-on-github-pages`
+
+
 ## Contributing
 
 Pull requests are welcome. Please make sure to test the code before sending requests.
